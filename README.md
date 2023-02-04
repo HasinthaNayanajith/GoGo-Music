@@ -4,6 +4,7 @@
 [![Windows](https://badgen.net/badge/icon/windows?icon=windows&label)](https://microsoft.com/windows/)<br><br>
 Latest Version - 1.0.20 (Beta)\
 <b>Because this software is still in its beta version, there may be frequent updates.</b>
+![GoGo Music](https://avocadolk.000webhostapp.com/gogo-music-images/GoGoMusicLogoBanner.jpg)
 <hr>
 
 ## Introduction
@@ -18,7 +19,7 @@ GoGo Music is an audio player with modern UI for listening to music on your Wind
 
 GOM Audio is suitable for everyone. It's easy to use yet versatile, able to meet the needs of the most passionate listener, with a vast menu of options making it very customizable.
 
-[Click here to download Zip (.msi Setup) file.](https://avocadolk.000webhostapp.com/GoGo_Music_Setup.zip)
+[![Download Now](https://avocadolk.000webhostapp.com/downloadbtn.jpg)](https://avocadolk.000webhostapp.com/GoGo_Music_Setup.zip)
 Download File Version - Latest v1.0.20 (Beta) .msi Installer
 
 ## How to Install
@@ -36,7 +37,7 @@ Download File Version - Latest v1.0.20 (Beta) .msi Installer
 ![Select GoGo Music SS](https://avocadolk.000webhostapp.com/gogo-music-images/09.jpg)
 ![Select GoGo Music SS](https://avocadolk.000webhostapp.com/gogo-music-images/10.jpg)
 
-[Click here to download Zip (.msi Setup) file.](https://avocadolk.000webhostapp.com/GoGo_Music_Setup.zip)
+[![Download Now](https://avocadolk.000webhostapp.com/downloadbtn.jpg)](https://avocadolk.000webhostapp.com/GoGo_Music_Setup.zip)
 Download File Version - Latest v1.0.20 (Beta) .msi Installer
 
 ## System Requirements
