@@ -1,11 +1,5 @@
 # GoGo Music
-[![Visual Studio](https://badgen.net/badge/icon/visualstudio?icon=visualstudio&label)](https://visualstudio.microsoft.com)
-[![.NET](https://img.shields.io/badge/--512BD4?logo=.net&logoColor=ffffff)](https://dotnet.microsoft.com/)
-[![Windows](https://badgen.net/badge/icon/windows?icon=windows&label)](https://microsoft.com/windows/)<br><br>
-Latest Version - 1.0.20 (Beta)\
-<b>Because this software is still in its beta version, there may be frequent updates.</b>
-![GoGo Music](https://avocadolk.000webhostapp.com/gogo-music-images/GoGoMusicLogoBanner.jpg)
-<hr>
+Latest Version - 1.0.20 (Beta)
 
 ## Introduction
 GoGo Music is an audio player with modern UI for listening to music on your Windows Computer. Free, full of options and ideal for those looking for a complete player. This player allows you to easily create and manage playlists, view and edit the ID3 tag, repeat songs and sync music files in your computer.
@@ -17,10 +11,9 @@ GoGo Music is an audio player with modern UI for listening to music on your Wind
 * Different color themes.
 * Edit ID3 Tags of music files.
 
-GOM Audio is suitable for everyone. It's easy to use yet versatile, able to meet the needs of the most passionate listener, with a vast menu of options making it very customizable.
+This player is easy to use yet versatile, able to meet the needs of the most passionate listener, with a vast menu of options making it very customizable.
 
-[![Download Now](https://avocadolk.000webhostapp.com/downloadbtn.jpg)](https://avocadolk.000webhostapp.com/GoGo_Music_Setup.zip)
-Download File Version - Latest v1.0.20 (Beta) .msi Installer
+[Download GoGo Music v1.0.20](https://avocadolk.000webhostapp.com/GoGo_Music_Setup.zip)
 
 ## How to Install
 * Download & install it as a normal .exe setup. It's Simple.
