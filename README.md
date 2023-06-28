@@ -13,25 +13,23 @@ GoGo Music is an audio player with modern UI for listening to music on your Wind
 
 This player is easy to use yet versatile, able to meet the needs of the most passionate listener, with a vast menu of options making it very customizable.
 
-[Download GoGo Music v1.0.20](https://avocadolk.000webhostapp.com/GoGo_Music_Setup.zip)
+[Download GoGo Music v1.0.20](https://github.com/HasinthaNayanajith/GoGo-Music/blob/master/GoGoMusicNewVersion.msi)
 
 ## How to Install
 * Download & install it as a normal .exe setup. It's Simple.
 
 ## Screenshots
-![Select GoGo Music SS](https://avocadolk.000webhostapp.com/gogo-music-images/01.jpg)
-![Select GoGo Music SS](https://avocadolk.000webhostapp.com/gogo-music-images/02.jpg)
-![Select GoGo Music SS](https://avocadolk.000webhostapp.com/gogo-music-images/03.jpg)
-![Select GoGo Music SS](https://avocadolk.000webhostapp.com/gogo-music-images/04.jpg)
-![Select GoGo Music SS](https://avocadolk.000webhostapp.com/gogo-music-images/05.jpg)
-![Select GoGo Music SS](https://avocadolk.000webhostapp.com/gogo-music-images/06.jpg)
-![Select GoGo Music SS](https://avocadolk.000webhostapp.com/gogo-music-images/07.jpg)
-![Select GoGo Music SS](https://avocadolk.000webhostapp.com/gogo-music-images/08.jpg)
-![Select GoGo Music SS](https://avocadolk.000webhostapp.com/gogo-music-images/09.jpg)
-![Select GoGo Music SS](https://avocadolk.000webhostapp.com/gogo-music-images/10.jpg)
+![GoGo Music](https://github.com/HasinthaNayanajith/GoGo-Music/blob/master/01.jpg)
+![GoGo Music](https://github.com/HasinthaNayanajith/GoGo-Music/blob/master/02.jpg)
+![GoGo Music](https://github.com/HasinthaNayanajith/GoGo-Music/blob/master/03.jpg)
+![GoGo Music](https://github.com/HasinthaNayanajith/GoGo-Music/blob/master/04.jpg)
+![GoGo Music](https://github.com/HasinthaNayanajith/GoGo-Music/blob/master/05.jpg)
+![GoGo Music](https://github.com/HasinthaNayanajith/GoGo-Music/blob/master/06.jpg)
+![GoGo Music](https://github.com/HasinthaNayanajith/GoGo-Music/blob/master/07.jpg)
+![GoGo Music](https://github.com/HasinthaNayanajith/GoGo-Music/blob/master/08.jpg)
+![GoGo Music](https://github.com/HasinthaNayanajith/GoGo-Music/blob/master/09.jpg)
 
-[![Download Now](https://avocadolk.000webhostapp.com/downloadbtn.jpg)](https://avocadolk.000webhostapp.com/GoGo_Music_Setup.zip)
-Download File Version - Latest v1.0.20 (Beta) .msi Installer
+[Download GoGo Music v1.0.20](https://github.com/HasinthaNayanajith/GoGo-Music/blob/master/GoGoMusicNewVersion.msi)
 
 ## System Requirements
 OS Version: Best Support with Windows 10 & 11.
