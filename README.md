@@ -40,8 +40,7 @@ hasintha.payoneer@gmail.com
 
 ## Send Feedbacks
 Email: hasintha.payoneer@gmail.com\
-WhatsApp: (+94) 775547473\
-Donate: [Paypal.Me/DeevDigital](https://www.paypal.me/DeevDigital)
+WhatsApp: (+94) 775547473
 
 **Thank you!**\
 Best Regards,\
